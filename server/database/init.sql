@@ -33,10 +33,10 @@ VALUES
 INSERT INTO dogs
   (name, breed, owner)
 VALUES
-  ('Hitmanlee', 'Fighting', 1),
-  ('Psyduck', 'Psychic', 2),
-  ('Squirtle', 'Water', 3),
-  ('Jigglypuff', 'Fairy', 4),
-  ('Pikachu', 'Electric', 5);
+  ('The Rock', 'Hitmanlee', 1),
+  ('Quacker', 'Psyduck', 2),
+  ('Turtlebuddy', 'Squirtle', 3),
+  ('KoreanEDMStar', 'Jigglypuff', 4),
+  ('Thunderclaws', 'Pikachu', 5);
 
 COMMIT;
