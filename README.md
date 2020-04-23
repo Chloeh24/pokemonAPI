@@ -1,6 +1,7 @@
-# Dogs REST API
+# Pokemon API
 
 This is a test API for Founders and Coders students to build apps with.
+Changed from [Dogs/RestAPI](https://github.com/oliverjam/dog-rest-api)
 
 ## Run locally
 
