@@ -1,6 +1,8 @@
-# Dogs REST API
+# Pokemon API :cherry_blossom: 
+## The Pokemon Choose You!
 
-This is a test API for Founders and Coders students to build apps with.
+This [REST API](https://github.com/Chloeh24/pokemonAPI) was cloned from [Oli's doggy API](https://fac19-pokemon.netlify.app/). :dog:
+
 
 ## Run locally
 
