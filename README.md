@@ -1,7 +1,7 @@
 # Pokemon API :cherry_blossom: 
 ## The Pokemon Choose You!
 
-This [REST API](https://github.com/Chloeh24/pokemonAPI) was cloned from [Oli's doggy API](https://fac19-pokemon.netlify.app/). :dog:
+This API was cloned from [Oli's doggy API](https://fac19-pokemon.netlify.app/) to create our [Pokemon Project](https://fac19-pokemon.netlify.app/). :dog:
 
 
 ## Run locally
